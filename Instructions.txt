@@ -1,8 +1,10 @@
-1.	Download zip/rar file and extract the files and store them on a folder on your computer that  will be easy to find (e.g. desktop)
-2.	It would be best to download the Anaconda package from here: https://www.anaconda.com/products/individual Choose the windows 64 bit installer for PC which should work for most modern computers. 
-3.      Install the package (saying yes/agree to all options). Once the package is installed, search your computer apps for the Anaconda Navigator and open this. The navigator has a set of apps associated with it. Please select the Jupyter Notebook and open. This should open your web browser. Check that this works.
-4.	Using the menu on in the browser, navigate to the folder with your downloaded files and open the file BAMBED.ipynb 
-5.	To run a cell, click on it and just press “Run”. Start from the 1st cell and work your way down.
+1. Download zip/rar file and extract the files and store them on a folder on your computer that  will be easy to find (e.g. desktop)
+2. It would be best to download the Anaconda package from here: https://www.anaconda.com/products/individual 
+   Choose the windows 64 bit installer for PC which should work for most modern computers. 
+3. Install the package (saying yes/agree to all options). Once the package is installed, search your computer apps for the Anaconda Navigator and open this. 
+   The navigator has a set of apps associated with it. Please select the Jupyter Notebook and open. This should open your web browser. Check that this works.
+4. Using the menu on in the browser, navigate to the folder with your downloaded files and open the file BAMBED.ipynb 
+5. To run a cell, click on it and just press “Run”. Start from the 1st cell and work your way down.
 6. It is very important that you work your way sequentially through the code- much like a set of cooking or baking instructions.
 7. If you happen to stop in the middle of an exercise, it may be necessary to start running the code from the begining of that section again.
 
